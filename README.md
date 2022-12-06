@@ -2,7 +2,9 @@
 This is used to sync locations from Manage to Hudu to help assign documentation and assets to a location.
 
 ## Hudu Setup
-If you have a locations asset already, please reference the exported JSON file to identify which fields should be marked required so the comparison works correctly.
+If you have a locations asset layout already, please reference the exported JSON file to identify which fields should be marked required so the comparison works correctly.
+
+If you do not have one, use this JSON file to import one.
 
 You will also need to add a CWManageID field which gets used to assign the location ID from Manage to the location asset in Hudu.
 
